@@ -1,0 +1,6 @@
+com/devsu/backendbp/controller/MovimientoControllerTest.class
+com/devsu/backendbp/BackendBpApplicationTests.class
+com/devsu/backendbp/services/ClienteServiceTest.class
+com/devsu/backendbp/controller/CuentaControllerTest.class
+com/devsu/backendbp/integration/ClienteIntegrationTest.class
+com/devsu/backendbp/controller/ClienteControllerTest.class
